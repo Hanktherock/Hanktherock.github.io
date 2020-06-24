@@ -6,7 +6,7 @@
     <title>IT'S THE FINAL VERSION</title>
     <script src="Build/UnityLoader.js"></script>
     <script>
-      UnityLoader.instantiate("unityContainer", "Build/gameteam8.json");
+      UnityLoader.instantiate("unityContainer", "Build/v0.5.json");
     </script>
   </head>
   <body style="padding: 0px; margin: 0px;">
